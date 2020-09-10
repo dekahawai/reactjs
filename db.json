@@ -1,0 +1,86 @@
+{
+    "users" :[
+    {
+      "id": 1,
+      "nama": "Deka",
+      "alamat": "Bekasi",
+      "umur": "20",
+      "hp": "098878628738"
+    },
+    {
+      "id": 2,
+      "nama": "Jangkrik ",
+      "alamat": "Jakarta",
+      "hp": "18",
+      "umur": "092837293749"
+    },
+    {
+      "id": 3,
+      "nama": "Dina",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },
+    {
+      "id": 4,
+      "nama": "Dono",
+      "alamat": "Subang",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 5,
+      "nama": "Diki",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 6,
+      "nama": "Dihdgna",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 7,
+      "nama": "Dikhl;hklna",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 8,
+      "nama": "Dinuhjkha",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id":9,
+      "nama": "Dinhjhja",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 10,
+      "nama": "Digkjljkna",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 11,
+      "nama": "Dinfdhfghda",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 11,
+      "nama": "Dindfdfsfa",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },{
+      "id": 12,
+      "nama": "iajadgsh",
+      "alamat": "Banjar",
+      "hp": "24",
+      "umur": "08273298379"
+    },
+  ],
+}
